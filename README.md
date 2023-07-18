@@ -26,9 +26,9 @@ In machine learning, regression is the supervised learning technique that finds 
 
 In this notebook, we have :
 
-- linear regression - where the model finds the ideal line for an independent variable.
-- multiple linear regression - where the model finds the ideal plane for two or more independent variables 
-- polynomial regression -  where the model finds the ideal line for non-linear relationships between the variable and feature.
+- [Linear Regression](linear_regression.pynb) - where the model finds the ideal line for an independent variable.
+- [Multiple Linear Regression](multiple_linear_regression.ipynb) - where the model finds the ideal plane for two or more independent variables 
+- [Polynomial Regression](polynomial_regression.ipynb) -  where the model finds the ideal line for non-linear relationships between the variable and feature.
 
 ### Why do we use Correlation & Regression together?
 Simply because ***Correlation helps us analyse data*** by providing us with descriptive statistics, while ***Regression helps us build a model*** based on the correlation of those variables.
