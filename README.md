@@ -14,7 +14,7 @@ To better understand this concept, we can use various visualisation techniques s
 -  heat maps
 -  and scatter plots.
 
-In this exercise, I used a scatter plot visualisation to better understand the Covariance Pearson Correlation.
+In this exercise, I used a scatter plot visualisation to better understand the [Covariance Pearson Correlation](covariance_pearson_correlation.html).
 
 ## Regression 
 
